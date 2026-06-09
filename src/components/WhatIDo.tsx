@@ -125,7 +125,7 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
             <div className="what-content-in">
               <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h4>UI Design & Prototyping</h4>
               <p>
                 I build the systems behind it: APIs, data, voice/real-time, and
                 full-stack products—production-ready, not slide decks.
