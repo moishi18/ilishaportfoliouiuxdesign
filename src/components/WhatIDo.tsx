@@ -91,8 +91,7 @@ const WhatIDo = () => {
               <h4>Designing with Purpose</h4>
               <p>
               I transform insights into experiences by understanding user needs,
-              analyzing behaviors, and defining product strategies that solve
-              real-world problems.
+              analyzing behaviors, and defining product strategies that solve problems.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
