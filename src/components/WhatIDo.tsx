@@ -87,20 +87,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>UX RESEARCH & STRATEGY</h3>
+              <h4>Designing with Purpose</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+              I transform insights into experiences by understanding user needs,
+              analyzing behaviors, and defining product strategies that solve
+              real-world problems.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">User Research</div>
+                <div className="what-tags">Competitive Analysis</div>
+                <div className="what-tags">User Flows</div>
+                <div className="what-tags">Information Architecture</div>
+                <div className="what-tags">Wireframing</div>
+                <div className="what-tags">Design Thinking</div>
               </div>
               <div className="what-arrow"></div>
             </div>
