@@ -13,14 +13,14 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
-  "/images/framer.webp",
-  "/images/figma.webp",
-  "/images/photoshop.webp",
-  "/images/illustrator.webp",
-  "/images/blender.webp",
-  "/images/miro.webp",
-  "/images/notion.webp",
-  "/images/webflow.webp",
+  "/images/1.webp",
+  "/images/2.webp",
+  "/images/3.webp",
+  "/images/4.webp",
+  "/images/5.webp",
+  "/images/6.webp",
+  "/images/7.webp",
+  "/images/8.webp",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
