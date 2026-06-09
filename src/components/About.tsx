@@ -6,11 +6,13 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+        Hi, I'm Ilisha — a UI/UX designer passionate about creating thoughtful digital experiences that
+        connect people, technology, and storytelling. I combine research, strategy, and visual design to
+        transform complex ideas into intuitive products, focusing on experiences that are both beautiful and
+        meaningful.
+
+        Currently pursuing a Bachelor of Design from Delhi Technological university (DTU), 
+        I'm constantly exploring new ways to design interactions that feel natural, engaging, and memorable.
         </p>
       </div>
     </div>
