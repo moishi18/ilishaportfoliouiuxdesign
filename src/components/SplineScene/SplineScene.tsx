@@ -7,7 +7,7 @@ import { setProgress } from "../Loading";
 import { setAllTimeline, setSplineTimeline } from "../utils/GsapScroll";
 
 const SPLINE_SCENE_URL =
-  "https://prod.spline.design/CcYM6KphETq3tUr0/scene.splinecode";
+  "https://prod.spline.design/nRVe2yzaJK6xS5xC/scene.splinecode";
 
 const SplineScene = memo(() => {
   const { setLoading } = useLoading();
@@ -82,7 +82,6 @@ const SplineScene = memo(() => {
             scene={SPLINE_SCENE_URL}
             onLoad={handleLoad}
             className="spline-canvas"
-            renderOnDemand
           />
         )}
       </div>

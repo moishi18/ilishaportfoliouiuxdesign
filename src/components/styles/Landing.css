@@ -154,7 +154,7 @@
 .character-model canvas,
 .spline-scene canvas {
   position: relative;
-  pointer-events: none;
+  pointer-events: auto;
   z-index: 2;
 }
 
