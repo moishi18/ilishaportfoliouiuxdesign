@@ -90,8 +90,8 @@ const WhatIDo = () => {
               <h3>UX RESEARCH & STRATEGY</h3>
               <h4>Designing with Purpose</h4>
               <p>
-              I transform insights into experiences by understanding user needs,
-              analyzing behaviors, and defining product strategies that solve problems.
+              I transform insights into meaningful experiences through research,
+              user flows, and strategic product thinking.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
