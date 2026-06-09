@@ -87,7 +87,7 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>UX RESEARCH & STRATEGY</h3>
+              <h3>UX RESEARCH</h3>
               <h4>Designing with Purpose</h4>
               <p>
               I transform insights into meaningful experiences through research,
