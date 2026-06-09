@@ -98,7 +98,7 @@ const WhatIDo = () => {
                 <div className="what-tags">User Research</div>
                 <div className="what-tags">Competitive Analysis</div>
                 <div className="what-tags">User Flows</div>
-                <div className="what-tags">Information Architecture</div>
+                <div className="what-tags">IA</div>
                 <div className="what-tags">Wireframing</div>
                 <div className="what-tags">Design Thinking</div>
               </div>
