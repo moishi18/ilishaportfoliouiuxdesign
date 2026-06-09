@@ -124,7 +124,7 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
+              <h3>UI Design &amp; Prototyping</h3>
               <h4>UI Design & Prototyping</h4>
               <p>
                 I build the systems behind it: APIs, data, voice/real-time, and
