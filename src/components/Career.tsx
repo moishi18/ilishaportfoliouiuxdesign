@@ -18,7 +18,7 @@ const Career = () => {
                 <h4>Team Manager & Design Lead</h4>
                 <h5>Team Inferno - DTU</h5>
               </div>
-              <h3>2025–NOW</h3>
+              <h4>2025–NOW</h4>
             </div>
             <p>
             Leading branding, digital experiences, and cross-functional collaboration
@@ -31,7 +31,7 @@ const Career = () => {
                 <h4>Design Intern</h4>
                 <h5>Agnirva Space Community (AICTE / ISRO Initiative)</h5>
               </div>
-              <h3>2026–NOW</h3>
+              <h4>2026–NOW</h4>
             </div>
             <p>
             Designed user-centric visuals and digital assets for
@@ -44,7 +44,7 @@ const Career = () => {
                 <h4>Design Intern</h4>
                 <h5>Technical Craftsmen (Saudi Arabia) </h5>
               </div>
-              <h3>2025–26</h3>
+              <h4>2025–26</h4>
             </div>
             <p>
             Developed brand identity systems and designed
@@ -57,7 +57,7 @@ const Career = () => {
                 <h4>Founding Member & Design Lead</h4>
                 <h5>Panha</h5>
               </div>
-              <h3>2024-25</h3>
+              <h4>2024-25</h4>
             </div>
             <p>
             Shaping product vision, brand identity, and user experience
