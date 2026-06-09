@@ -131,7 +131,7 @@ const WhatIDo = () => {
                 I build the systems behind it: APIs, data, voice/real-time, and
                 full-stack products—production-ready, not slide decks.
               </p>
-              <<h3>UI DESIGN & PROTOTYPING</h3>
+              <<h5>UI DESIGN & PROTOTYPING</h5>
 <h4>Crafting Digital Experiences</h4>
 <p>
   From visual systems to interactive prototypes, I create intuitive
