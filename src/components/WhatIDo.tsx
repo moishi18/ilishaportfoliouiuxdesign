@@ -124,21 +124,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>UI Design &amp; Prototyping</h3>
-              <h4>UI Design & Prototyping</h4>
+              <h3>INTERFACE DESIGN</h3>
+              <h4>Crafting Digital Experiences</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+              From visual systems to interactive prototypes, I create intuitive interfaces
+              that balance usability, aesthetics, and meaningful use engagement.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">Figma</div>
+                <div className="what-tags">Framer</div>
+                <div className="what-tags">Prototyping</div>
+                <div className="what-tags">Brand Identity</div>
+                <div className="what-tags">Interaction Design</div>
+                <div className="what-tags">Notion</div>
+                <div className="what-tags">WebFlow</div>
               </div>
               <div className="what-arrow"></div>
             </div>
