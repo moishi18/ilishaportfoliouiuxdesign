@@ -11,7 +11,7 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/ilishadabas/"
+                href="https://www.linkedin.com/in/ilisha-dabas-84b07b27b/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
@@ -21,26 +21,17 @@ const Contact = () => {
             </p>
             <h4>Education</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
+              Bachelors in Design, Delhi Technological University (DTU), Delhi — 2024–2028
             </p>
             <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
+                Delhi Public School (D.P.S) , Rohini, New Delhi —
+              2016–2023
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/ilishadabas"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              GitHub <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.linkedin.com/in/ilishadabas/"
+              href="https://www.linkedin.com/in/ilisha-dabas-84b07b27b/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -56,15 +47,6 @@ const Contact = () => {
               className="contact-social"
             >
               Behance <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/ilishadabas/"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
