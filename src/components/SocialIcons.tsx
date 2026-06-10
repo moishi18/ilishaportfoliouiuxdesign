@@ -82,7 +82,7 @@ const SocialIcons = () => {
   
       <a
         className="CV-button"
-        href="https://drive.google.com/file/d/1x9Y4QfGjFj7ddupg1h2GsKWx_swkJu1B/view?usp=sharing"
+        href="https://drive.google.com/file/d/1fwyOaaABtYC96ZWNR7C0yb6AqI6zRPLI/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
       >
