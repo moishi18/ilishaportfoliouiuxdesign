@@ -92,6 +92,7 @@ const SocialIcons = () => {
         </span>
       </a>
     </>
-  );
+    );
+  };
 
   export default SocialIcons;
