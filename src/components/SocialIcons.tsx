@@ -61,16 +61,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/ilishadabas"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaGithub />
-          </a>
-        </span>
-        <span>
-          <a
-            href="https://www.linkedin.com/in/ilishadabas/"
+            href="https://www.linkedin.com/in/ilisha-dabas-84b07b27b/"
             target="_blank"
             rel="noreferrer"
           >
@@ -86,19 +77,9 @@ const SocialIcons = () => {
             <FaBehance />
           </a>
         </span>
-        <span>
-          <a
-            href="https://www.instagram.com/ilishadabas/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaInstagram />
-          </a>
-        </span>
-      </div>
       <a
-        className="resume-button"
-        href="/Ilisha_Dabas.pdf"
+        className="CV-button"
+        href="https://drive.google.com/file/d/1x9Y4QfGjFj7ddupg1h2GsKWx_swkJu1B/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
       >
