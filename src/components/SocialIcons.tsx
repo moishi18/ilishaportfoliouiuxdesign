@@ -54,41 +54,44 @@ const SocialIcons = () => {
     });
   }, []);
 
-  return (
-    <div className="icons-section">
-      <div className="social-icons" data-cursor="icons" id="social">
-      <span className="social-icon-item">
-      <a
-        href="https://www.linkedin.com/in/ilisha-dabas-84b07b27b/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <FaLinkedinIn />
-      </a>
-    </span>
-    <span className="social-icon-item">
-      <a
-        href="https://www.behance.net/ilishadabas"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <FaBehance />
-      </a>
-    </span>
+  rreturn (
+    <>
+      <div className="icons-section">
+        <div className="social-icons" data-cursor="icons" id="social">
+          <span className="social-icon-item">
+            <a
+              href="https://www.linkedin.com/in/ilisha-dabas-84b07b27b/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <FaLinkedinIn />
+            </a>
+          </span>
+  
+          <span className="social-icon-item">
+            <a
+              href="https://www.behance.net/ilishadabas"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <FaBehance />
+            </a>
+          </span>
+        </div>
+      </div>
+  
       <a
         className="CV-button"
         href="https://drive.google.com/file/d/1x9Y4QfGjFj7ddupg1h2GsKWx_swkJu1B/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
       >
-        <HoverLinks text="MY CV" />
+        <HoverLinks text="RESUME" />
         <span>
           <TbNotes />
         </span>
       </a>
-      </div>
-    </div>
+    </>
   );
-};
 
 export default SocialIcons;
