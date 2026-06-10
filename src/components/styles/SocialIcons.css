@@ -43,24 +43,18 @@
   will-change: left, top;
   transition: transform 0.3s ease-out;
 }
-.resume-button {
-  position: absolute;
-  z-index: 99;
+.CV-button {
+  position: fixed;
+  right: 3rem;
+  bottom: 3rem;
+  z-index: 50;
+
   display: flex;
-  gap: 5px;
-  bottom: 40px;
-  right: 0;
-  width: auto;
-  text-wrap: nowrap;
-  letter-spacing: 4px;
-  font-size: 15px;
-  line-height: 15px;
-  font-weight: 600;
-  color: #5e5e5e;
-  cursor: pointer;
-  transition: 0.5s;
-  transform-origin: left bottom;
-  transform: translateX(100%) rotateZ(-90deg);
+  align-items: center;
+  gap: 0.7rem;
+
+  text-decoration: none;
+  color: white;
 }
 .resume-button:hover {
   color: var(--accentLight);
