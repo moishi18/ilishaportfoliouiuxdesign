@@ -54,7 +54,7 @@ const SocialIcons = () => {
     });
   }, []);
 
-  rreturn (
+  return (
     <>
       <div className="icons-section">
         <div className="social-icons" data-cursor="icons" id="social">
