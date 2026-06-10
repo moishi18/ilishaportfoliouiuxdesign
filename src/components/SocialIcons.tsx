@@ -1,7 +1,5 @@
 import {
   FaBehance,
-  FaGithub,
-  FaInstagram,
   FaLinkedinIn,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
@@ -88,6 +86,7 @@ const SocialIcons = () => {
           <TbNotes />
         </span>
       </a>
+      </div>
     </div>
   );
 };
